@@ -19,9 +19,9 @@ Sistem ini dirancang untuk membantu dalam visualisasi data spasial wilayah perta
 
 ## 🚀 Demo Aplikasi
 
-Anda dapat melihat pratinjau dan mencoba langsung aplikasi ini secara online melalui tautan berikut:
+Anda dapat melihat pratinjau dan mencoba langsung aplikasi ini secara online melalui tautan di bawah ini:
 
-🌐 **[https://sigsukamaju.my.id/sig-lahan-pertanian-dan-irigasi-desa/](https://sigsukamaju.my.id/sig-lahan-pertanian-dan-irigasi-desa/)**
+🌐 **[Kunjungi Demo Aplikasi](https://sigsukamaju.my.id/sig-lahan-pertanian-dan-irigasi-desa/)**
 
 ---
 
