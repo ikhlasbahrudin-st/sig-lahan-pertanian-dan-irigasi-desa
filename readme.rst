@@ -1,74 +1,42 @@
-##################################
-sig pertanian dan jaringan irigasi
-##################################
+# 🌾 SIG Pertanian dan Jaringan Irigasi
 
-aplikasi ini di buat untuk memenuhu syarat tugas akhir di universitas suryakancana
-mungkin teman teman inging berkoleborasi , aplikasi ini masih belum bisa di bilang sempurna dan masih 
-banyak lagi perubahan yang mungkin kalian tambahkan.
+> Aplikasi Sistem Informasi Geografis (SIG) berbasis Web untuk pemetaan wilayah pertanian dan pengelolaan jaringan irigasi.
 
-kontak saya :
-email : robetnt390@gmail.com
-Whatsapp: 087867395831
+[![Status Proyek](https://img.shields.io/badge/Status-Active-success.svg)](https://github.com/)
+[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-3.x-red.svg)](https://codeigniter.com/)
+[![PHP](https://img.shields.io/badge/PHP-7.4+-blue.svg)](https://php.net/)
+[![Campus](https://img.shields.io/badge/Universitas-Suryakancana-yellow.svg)](https://unsur.ac.id/)
 
-*******************
-Release Information
-*******************
+---
 
+## 📌 Tentang Proyek
 
+Aplikasi **SIG Pertanian dan Jaringan Irigasi** ini dikembangkan untuk memenuhi salah satu syarat kelulusan dalam menyelesaikan Tugas Akhir (Skripsi) di **Universitas Suryakancana**. 
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+Sistem ini dirancang untuk membantu dalam visualisasi data spasial wilayah pertanian, pemantauan infrastruktur jaringan irigasi, serta penyajian informasi geografis yang interaktif bagi masyarakat dan instansi terkait.
 
-**************************
-Changelog and New Features
-**************************
+---
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+## 🚀 Demo Aplikasi
 
-*******************
-Server Requirements
-*******************
+Anda dapat melihat pratinjau dan mencoba langsung aplikasi ini secara online melalui tautan berikut:
 
-PHP version 5.6 or newer is recommended.
+🌐 **[www.sigsukamaju.my.id](https://www.sigsukamaju.my.id)**
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+---
 
-************
-Installation
-************
+## 💻 Kebutuhan Server (Server Requirements)
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+Pastikan server hosting atau lingkungan lokal (seperti XAMPP) Anda memenuhi spesifikasi berikut:
 
-*******
-License
-*******
+* **PHP** versi `7.4` atau yang lebih baru (Sangat disarankan untuk menghindari masalah keamanan pada versi lama).
+* **MySQL / MariaDB** untuk manajemen database relasional.
+* Ekstensi PHP standar untuk framework CodeIgniter (cURL, Mbstring, Intl, dll).
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+---
 
-*********
-Resources
-*********
+## ⚙️ Cara Instalasi & Menjalankan Proyek
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
-***************
-
+1. **Clone repository ini** ke direktori web server Anda (misalnya `htdocs` pada XAMPP):
+   ```bash
+   git clone [https://github.com/username/repository-anda.git](https://github.com/username/repository-anda.git)
